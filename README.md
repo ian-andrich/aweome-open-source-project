@@ -16,10 +16,15 @@ Contains tooling, and checklists related to ensuring that your open source proje
 
 # Immediate Goals
 Begin filling out checklists
+
 Double check quality
+
 Establish community guidelines, contributor crediting system.
+
 I know this will be too specific starting out, but I don't know where the cuts will be to make this appropriately general to suit all posible open source projects, so guidance will start out focusing on software.
+
 Get this to the point where it is sufficiently well defined that I can start accepting contributors.
+
 
 ***Get it to the point where I can begin reaching out to the community for their wisdom.***
 
