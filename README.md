@@ -21,5 +21,8 @@ Establish community guidelines, contributor crediting system.
 I know this will be too specific starting out, but I don't know where the cuts will be to make this appropriately general to suit all posible open source projects, so guidance will start out focusing on software.
 Get this to the point where it is sufficiently well defined that I can start accepting contributors.
 
+***Get it to the point where I can begin reaching out to the community for their wisdom.***
+
 # Long Term Goals
-Rea
+Turn this into a healthy community curating a list of best practices and tooling relevant to people increasing their quality of open source contributions.
+Establish a roadmap for each version of the document.
