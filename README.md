@@ -17,27 +17,46 @@ Too many guides are too static in their analysis of where your project ***is*** 
 * Marketing Guides
 * Support Guidelines
 * Language Specific
+* Concerns and how they affect different stages of project growth
+
+# Project Concerns
+* Open community
+
 
 # Unstructured
-gitter
-irc
-slack communities
+* gitter
+* irc
+* slack communities
+* discord communities
+* email
 
-linting
-automatic formating tools
-gif demos
-youtube demos
-get skeleton up
-travis ci integration
-community guidelines
-contribution guidelines
-reporting guidelines
-screenshots
-documentation
-interactive coding -- repl.it
-live coding of project on streams -- twitch
-vagrant for setting up development machines so people can just hop in and start working with a dev environment set up
-dockerfiles or other containers for testing on machine~~~~
+* linting
+* automatic formating tools
+* code coverage indicators
+* testing
+* fuzzing
+* use cases broken out by avatar
+* configuration documentation
+* configuration builder tools
+* test coverage indicators
+* gif demos
+* youtube demos
+* get skeleton up
+* travis ci integration
+* community guidelines
+* contribution guidelines
+* open/closed issues for extending usability
+* reporting guidelines
+* screenshots
+* documentation
+* documentation hosting
+* interactive coding -- repl.it
+* live coding of project on streams -- twitch
+* vagrant for setting up development machines so people can just hop in and start working with a dev environment set up
+* dockerfiles or other containers for testing on machine
+* deployment skeleton
+* deployment builder?
+* security features
 
 # Immediate Goals
 Begin filling out checklists
