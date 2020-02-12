@@ -37,7 +37,7 @@ Too many guides are too static in their analysis of where your project ***is*** 
 ## Young Project Checklist
 - [ ] Build 4 avatars of your users -- who do you think they are?  How do they feel?  How does this help them specifically?
 - [ ] Functioning prototype.
-- [ ] 
+- [ ]
 
 ## Older Project Checklist
 ***In progress***
@@ -72,7 +72,7 @@ Too many guides are too static in their analysis of where your project ***is*** 
 * screenshots
 * documentation
 * documentation hosting
-* interactive coding -- repl.it
+* interactive coding -- repl.it -- live demos
 * live coding of project on streams -- twitch
 * vagrant for setting up development machines so people can just hop in and start working with a dev environment set up
 * dockerfiles or other containers for testing on machine
